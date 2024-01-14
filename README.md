@@ -3,7 +3,7 @@
 **Project Title: Image Colorization using Deep Learning**
 
 **Overview:**
-The "Image Colorization using Deep Learning" project focuses on leveraging advanced deep learning techniques to automatically add colour to grayscale images. By utilizing a combination of data cleaning, normalization, and the powerful InceptionResNetV2 model, this project aims to create an efficient and accurate image colorization system.
+The "Image Colorization using Deep Learning" project focuses on leveraging advanced deep learning techniques to automatically add colour to grayscale images. By utilizing a combination of data cleaning, normalization, and the powerful InceptionResNetV2 model, this project aims to create an efficient and accurate image colourization system.
 
 **Key Features:**
 
