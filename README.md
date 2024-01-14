@@ -8,7 +8,7 @@ The "Image Colorization using Deep Learning" project focuses on leveraging advan
 **Key Features:**
 
 1. **Data Collection and Cleaning:**
-   - Curated a diverse dataset containing pairs of grayscale and corresponding color images.
+   - Curated a diverse dataset containing pairs of grayscale and corresponding colour images.
    - Implemented data cleaning techniques to ensure dataset consistency, removing any outliers or irrelevant data.
    - Structured the dataset to facilitate effective model training.
 
