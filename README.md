@@ -27,7 +27,7 @@ The "Image Colorization using Deep Learning" project focuses on leveraging advan
    - Iteratively adjusted hyperparameters to achieve optimal results.
 
 5. **Image Colorization:**
-   - Successfully created a model capable of colorizing black and white images with high accuracy.
+   - Successfully created a model capable of colourizing black-and-white images with high accuracy.
    - Tested the model on a variety of images to ensure its generalization across different scenes and content.
    - Integrated the model into a user-friendly application or service for practical usage.
 
