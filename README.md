@@ -39,13 +39,13 @@ The "Image Colorization using Deep Learning" project focuses on leveraging advan
 - Data visualization tools for assessing model performance.
 
 **Expected Outcomes:**
-- A robust and accurate deep learning model capable of colorizing grayscale images.
-- Visual evaluation metrics showcasing the effectiveness of the colorization process.
+- A robust and accurate deep learning model capable of colourizing grayscale images.
+- Visual evaluation metrics showcasing the effectiveness of the colourization process.
 - Potential applications in photo restoration, digital media enhancement, and creative content generation.
 
 **Future Enhancements:**
-- Continuously update the model with additional training on diverse datasets for improved colorization accuracy.
-- Explore real-time colorization capabilities for applications such as video processing.
+- Continuously update the model with additional training on diverse datasets for improved colourization accuracy.
+- Explore real-time colourization capabilities for applications such as video processing.
 - Develop user interfaces or APIs for easy integration into various platforms.
 
 This project not only contributes to the field of computer vision but also holds practical applications in industries that require enhanced visualization and aesthetic appeal in their visual content.
