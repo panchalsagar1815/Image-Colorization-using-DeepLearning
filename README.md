@@ -14,7 +14,7 @@ The "Image Colorization using Deep Learning" project focuses on leveraging advan
 
 2. **Normalization and Unnormalization Techniques:**
    - Applied normalization techniques to preprocess input images, ensuring uniformity in pixel values and aiding in model convergence.
-   - Developed unnormalization techniques to convert the model's output back to a visually appealing color space.
+   - Developed unnormalization techniques to convert the model's output back to a visually appealing colour space.
 
 3. **InceptionResNetV2 Model:**
    - Employed the powerful InceptionResNetV2 architecture as the backbone for the colorization model.
