@@ -17,7 +17,7 @@ The "Image Colorization using Deep Learning" project focuses on leveraging advan
    - Developed unnormalization techniques to convert the model's output back to a visually appealing colour space.
 
 3. **InceptionResNetV2 Model:**
-   - Employed the powerful InceptionResNetV2 architecture as the backbone for the colorization model.
+   - Employed the powerful InceptionResNetV2 architecture as the backbone for the colourization model.
    - Fine-tuned the model to effectively capture complex features and relationships between grayscale and color images.
    - Leveraged transfer learning to benefit from the pre-trained weights of InceptionResNetV2, enhancing the model's performance.
 
